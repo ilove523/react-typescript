@@ -1,5 +1,5 @@
 # react-typescript
-
+原作者发布地址： [react16 + typescript + webpack4 + mobx + antd的CMS项目](https://segmentfault.com/a/1190000017345474)
 ### 项目概况
 ***
 使用蚂蚁金服的Antd开发的一套后台管理系统，主要用到了react、typescript、antd、mobx等技术，使用webpack4打包构建，包含React16的code splitting等新特性。
